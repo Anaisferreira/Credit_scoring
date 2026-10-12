@@ -47,3 +47,4 @@ jupyter notebook credit_scoring.ipynb
 ---
 
 More projects on my portfolio: [anaisferreira.github.io/Personal-website](https://anaisferreira.github.io/Personal-website/)
+
