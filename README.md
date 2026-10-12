@@ -43,3 +43,7 @@ Data: [Credit score classification](https://www.kaggle.com/datasets/parisrohan/c
 pip install -r requirements.txt
 jupyter notebook credit_scoring.ipynb
 ```
+
+---
+
+More projects on my portfolio: [anaisferreira.github.io/Personal-website](https://anaisferreira.github.io/Personal-website/)
